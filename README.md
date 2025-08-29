@@ -20,17 +20,16 @@ Berikut beberapa highlights yang sedang aktif:
 
 ## ⚡ Efek ASCII / Dinamis
 ```text
-           /\
-          /  \
-         /    \
-        /      \
-       |        |
-       |  MYTHS |
-       |        |
-        \      /
-         \    /
-          \  /
-           \/
+       /\          /\          /\          /\          /\          /\
+      /  \        /  \        /  \        /  \        /  \        /  \
+     /    \      /    \      /    \      /    \      /    \      /    \
+    /      \    /      \    /      \    /      \    /      \    /      \
+   | MYTHS  |  |  VTA   |  |  VTI   |  |  VTU   |  |  VTE   |  |  VTO   |
+    \      /    \      /    \      /    \      /    \      /    \      /
+     \    /      \    /      \    /      \    /      \    /      \    /
+      \  /        \  /        \  /        \  /        \  /        \  /
+       \/          \/          \/          \/          \/          \/
+
 
 
                                                                                                     
